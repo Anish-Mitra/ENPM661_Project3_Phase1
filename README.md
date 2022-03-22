@@ -63,5 +63,5 @@ Radius: 5
 Start location: 10 10 0
 Goal location: 100 240 0
 Visualization video: [Test case 2](https://youtu.be/zyopxe8h77s).
-![Optimal_path_testcase2](/outputs/Optimal_path_testcase2.png?raw=true)# ENPM661_Project3_Phase1
+![Optimal_path_testcase2](/outputs/Optimal_path_testcase2.png?raw=true)
 
